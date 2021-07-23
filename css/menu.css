@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../img/fondo.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+
+}
+
+.menu {
+
+    margin: auto;
+    width: 500px;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+.ul, ol{
+    list-style: none;
+
+}
+
+.nav li a {
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+    
+}
