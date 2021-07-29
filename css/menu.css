@@ -4,7 +4,7 @@ body {
     background: url(../img/fondo.jpg) no-repeat center top;
     background-size: cover;
     font-family: sans-serif;
-    height: 100vh;
+    height: 150vh;
 
 }
 
@@ -42,7 +42,7 @@ ul, ol {
 .nav li ul {
     display:none;
     position:absolute;
-    min-width:180px;
+    min-width:160px;
 }
 
 .nav li:hover > ul {
@@ -54,6 +54,6 @@ ul, ol {
 }
 
 .nav li ul li ul {
-    right:-180px;
+    right:-160px;
     top:0px;
 }
