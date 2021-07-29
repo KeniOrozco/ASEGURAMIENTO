@@ -68,7 +68,7 @@ div#banner{
 img#img_banner{
     display: block;
     margin: auto;
-    width: 25;
-    max-width: 200;
-    min-width: 50px;    
+    width: 15;
+    max-width: 20;
+    min-width: 5px;    
 }
