@@ -87,7 +87,7 @@ img#img_banner{
 #galeria img{
     width: 20%;
     height: 200px;
-    align-items: center;
+    justify-content:center;
 }
 
 #galeria img:hover{
