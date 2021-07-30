@@ -11,8 +11,8 @@ body {
 .login-contenedor {
     width: 320px;
     height: 420px;
-    background: #000;
-    color: #fff;
+    background: #fff;
+    color: #000;
     top: 50%;
     left: 87%;
     position: absolute;
