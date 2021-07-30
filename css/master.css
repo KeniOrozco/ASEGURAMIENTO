@@ -63,7 +63,7 @@ body {
     font-size: 16px;
 }
 
-.login-contenedor input[type="submit"]{
+.login-contenedor input[href="menu.html"]{
     border: none;
     outline: none;
     height: 40px;
