@@ -11,7 +11,7 @@ body {
 .login-contenedor {
     width: 320px;
     height: 420px;
-    background: #000;
+    background: rgb(124, 123, 123);
     color: #fff;
     top: 50%;
     left: 87%;
@@ -20,7 +20,7 @@ body {
     box-sizing: border-box;
     padding: 70px 30px;
 
-}
+}   
 
 .login-contenedor .avatar {
 
