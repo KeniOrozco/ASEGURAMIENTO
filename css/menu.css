@@ -68,11 +68,11 @@ div#banner{
 img#img_banner{
     display: block;
     margin: auto;
-    width: 9;
+    width: 15;
       
 
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
    
 }
