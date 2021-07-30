@@ -79,7 +79,7 @@ img#img_banner{
 
 #galeria .col-lg-4{
     margin: 0 !important;
-    padding: 50px;
+    padding: 25px;
 }
 
 #galeria img{
@@ -88,5 +88,5 @@ img#img_banner{
 }
 
 #galeria img:hover{
-    border: 5px solid #f7f7f7
+    border: 25px solid #f7f7f7
 }
