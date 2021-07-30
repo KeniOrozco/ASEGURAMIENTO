@@ -82,13 +82,13 @@ img#img_banner{
 #galeria .col-lg-4{
     margin: 0 !important;
     padding: 10px;
+    float: center;
 }
 
 #galeria img{
     width: 20%;
     height: 200px;
     padding: 10px;
-    float: center;
 
 }
 
