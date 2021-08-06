@@ -1,8 +1,12 @@
+
+
+
+
 html{
     font-size: 16px;
 }
 
-.social-bar{
+.Social-bar{
     position: fixed;
     right: 0;
     top: 35%;
@@ -16,11 +20,10 @@ html{
 .icon{
     color: white;
     text-decoration: none;
-    padding: 7em;
+    padding: 1rem;
     display: flex;
     transition: all .5s;
 }
-
 
 .icon-facebook{
     background: #2E406E;
@@ -56,3 +59,7 @@ html{
     box-shadow: 0 0 .5rem rgba(0, 0, 0, 0.42);
 
 }
+
+
+
+
