@@ -1,7 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    background: url(../img/fondo.jpg) no-repeat center top;
     background-size: cover;
     font-family: sans-serif;
     height: 100vh;
@@ -87,7 +86,7 @@ img#img_banner{
 }
 
 #galeria img:hover{
-    border: 3px solid #f7f7f7
+    border: 3px solid #353434
 }
 
 
